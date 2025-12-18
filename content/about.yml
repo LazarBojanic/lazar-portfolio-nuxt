@@ -1,0 +1,11 @@
+title: About Me
+description: Learn more about my journey as a developer and my passion for building software.
+content: |
+    Hi, my name is **Lazar Bojanić**. I'm a 3rd year Computer Science student. My main interests are computer graphics and game development. Outside of school, I enjoy cycling, playing games, and listening to music.
+
+    ## Skills & Technologies
+
+    - **Frontend:** Vue.js, Nuxt.js, React
+    - **Backend:** Java/Kotlin (SpringBoot/Ktor), C#(.NET), Javascript/Typescript(Node.js), C/C++ (OpenGL/Game Dev)
+    - **Tools:** Git, GitHub
+    - **Databases:** PostgreSQL, MongoDB
