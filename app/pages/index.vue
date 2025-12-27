@@ -4,10 +4,10 @@ const {data: projects} = await useAsyncData('projects', () => {
 })
 
 useSeoMeta({
-	title: 'Lazar Bojanic - Projects',
-	description: 'Portfolio projects by Lazar Bojanic',
-	ogTitle: 'Lazar Bojanic - Projects',
-	ogDescription: 'Portfolio projects by Lazar Bojanic'
+	title: ' Projects',
+	description: 'Lazar Bojanic - Portfolio.',
+	ogTitle: 'Projects',
+	ogDescription: 'Lazar Bojanic - Portfolio.'
 })
 </script>
 
