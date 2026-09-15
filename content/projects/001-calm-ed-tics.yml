@@ -4,3 +4,4 @@ image: "https://github.com/LazarBojanic/CalmEd/raw/main/home_screen.png"
 url: "https://github.com/LazarBojanic/CalmEd"
 tags: [ "Freelance", "Wellness App", "Kotlin", "Compose Multiplatform", "Ktor" ]
 date: "2026"
+order: 1

@@ -1,6 +1,8 @@
 <script setup lang="ts">
 const {data: projects} = await useAsyncData('projects', () => {
-	return queryCollection('projects').all()
+	return queryCollection('projects')
+		.order('order', 'ASC')
+		.all()
 })
 
 useSeoMeta({

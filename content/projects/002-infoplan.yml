@@ -4,3 +4,4 @@ image: "https://raw.githubusercontent.com/LazarBojanic/InfoplanContractManagment
 url: "https://github.com/LazarBojanic/InfoplanContractManagmentSoftware"
 tags: [ "Software Engineer", "C#", "WinForms" ]
 date: "2022"
+order: 2

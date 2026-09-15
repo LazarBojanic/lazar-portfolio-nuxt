@@ -4,3 +4,4 @@ image: "https://github.com/LazarBojanic/lazar-bot/raw/main/wordle.png"
 url: "https://github.com/LazarBojanic/lazar-bot"
 tags: [ "Hobby", "Wordle", "Java", "Javascript" ]
 date: "2025"
+order: 6

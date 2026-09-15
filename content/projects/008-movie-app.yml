@@ -4,3 +4,4 @@ image: "https://github.com/LazarBojanic/movie-app-js/raw/main/movies-2.png"
 url: "https://github.com/LazarBojanic/movie-app-js"
 tags: [ "Hobby", "Movies", "Node.js", "Vue.js" ]
 date: "2023"
+order: 8
