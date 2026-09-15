@@ -27,7 +27,7 @@ useSeoMeta({
 			:description="page.description"
 			orientation="horizontal"
 			:ui="{
-        container: 'lg:flex sm:flex-row items-center',
+        container: 'lg:flex sm:flex-row items-center justify-between',
         title: '!mx-0 text-left',
         description: '!mx-0 text-left',
         links: 'justify-start'
@@ -38,7 +38,7 @@ useSeoMeta({
 				width="256"
 				height="256"
 				alt="Profile picture"
-				class="rounded-lg"
+				class="rounded-lg sm:ml-auto"
 			/>
 		</UPageHero>
 		<UPageSection
